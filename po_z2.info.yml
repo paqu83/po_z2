@@ -1,0 +1,5 @@
+name: Programowanie obiektowe 1 - Laboratorium Zadanie 2
+type: module
+package: Multilingual
+version: 1.0
+core_version_requirement: ^8 || ^9
